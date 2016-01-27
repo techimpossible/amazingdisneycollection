@@ -16,7 +16,7 @@ tagline:             'Where Dreams Come True!'
 description:         'Bedtime Stories'
 url:                 https://www.amazingdisneycollection.com
 rss:                 rss feed url
-baseurl:             ''
+baseurl:             '/amazingdisneycollection'
 baseurl_posts_img:   '/assets/images/posts/'
 baseurl_featured_img: '/assets/images/hero/'
 baseurl_featured_thumbnail: '/assets/images/thumbnail/'
