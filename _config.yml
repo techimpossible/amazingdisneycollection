@@ -5,18 +5,18 @@ highlighter:         pygments
 
 # Permalinks
 permalink:           /:title
-relative_permalinks: true
+relative_permalinks: false
 
 # Setup
-timezone:            your timezone # eg. Asia/Kathmandu
-locale:              your locale language # eg. en_us
-name:				         site name
-title:               site title
-tagline:             'tagline'
-description:         'description'
-url:                 site url
+timezone:            London
+locale:              en_us
+name:				         Peter Skaronis
+title:               Amazing Disney Collection
+tagline:             'Where Dreams Come True!'
+description:         'Bedtime Stories'
+url:                 https://www.amazingdisneycollection.com
 rss:                 rss feed url
-baseurl:             '/mickey'
+baseurl:             '/amazingdisneycollection'
 baseurl_posts_img:   '/assets/images/posts/'
 baseurl_featured_img: '/assets/images/hero/'
 baseurl_featured_thumbnail: '/assets/images/thumbnail/'
@@ -25,8 +25,8 @@ icon:                your site icon path # /assets/img/icon.png [best 300px X 30
 disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
-  name:           	 your name
-  url:            	 your site url
+  name:           	 Peter Skaronis
+  url:            	 https://www.amazingdisneycollection.com
   facebook:          username
   twitter:           username
   google_plus:       username
