@@ -14,7 +14,7 @@ name:				         Peter Skaronis
 title:               Amazing Disney Collection
 tagline:             'Where Dreams Come True!'
 description:         'Bedtime Stories'
-url:                 https://www.amazingdisneycollection.com
+url:                 'https://www.amazingdisneycollection.com'
 rss:                 rss feed url
 baseurl:             ''
 baseurl_posts_img:   '/assets/images/posts/'
@@ -26,7 +26,7 @@ disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
   name:           	 Peter Skaronis
-  url:            	 https://www.amazingdisneycollection.com
+  url:            	 'https://www.amazingdisneycollection.com'
   facebook:          username
   twitter:           username
   google_plus:       username
