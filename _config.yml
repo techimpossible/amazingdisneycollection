@@ -14,7 +14,7 @@ name:				         Peter Skaronis
 title:               Amazing Disney Collection
 tagline:             'Where Dreams Come True!'
 description:         'Bedtime Stories'
-url:                 
+url:                 http://techimpossible.github.io/mickey
 rss:                 rss feed url
 baseurl:             ''
 baseurl_posts_img:   '/assets/images/posts/'
