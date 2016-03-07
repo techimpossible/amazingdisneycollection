@@ -10,7 +10,7 @@ relative_permalinks: false
 # Setup
 timezone:            London
 locale:              en_us
-name:				         Peter Skaronis
+name:				 Peter Skaronis
 title:               Amazing Disney Collection
 tagline:             'Where Dreams Come True!'
 description:         'Bedtime Stories'
