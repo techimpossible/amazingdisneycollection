@@ -16,7 +16,7 @@ tagline:             'Where Dreams Come True!'
 description:         'Bedtime Stories'
 url:                 'https://www.amazingdisneycollection.com'
 rss:                 rss feed url
-baseurl:             ''
+baseurl:             
 baseurl_posts_img:   '/assets/images/posts/'
 baseurl_featured_img: '/assets/images/hero/'
 baseurl_featured_thumbnail: '/assets/images/thumbnail/'
@@ -39,7 +39,7 @@ fb_admins:           your facebook profile id
 fb_appid:            your facebook app id
 
 # Server
-destination:      	 
+destination:      	 ./_site
 exclude:          	 [".editorconfig", ".gitignore", "bower.json", "composer.json", "CONTRIBUTING.md", "CNAME", "LICENSE", "Gruntfile.js", "package.json", "node_modules", "README.md", "sass", "haml"]
 port:             	 9001
 
